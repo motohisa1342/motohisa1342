@@ -1,7 +1,8 @@
 ## Hi there 👋
-# I am PhyHunnyPopper 🍿
+### I am PhyHunnyPopper 🍿
 
 ## 🔭 Currently working on
 
+## 🤩 Interests
 
 ## 🛠 Tech Stack
